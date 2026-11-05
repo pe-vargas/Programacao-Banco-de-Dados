@@ -1,6 +1,6 @@
 # Trabalho Acadêmico de Programação em Banco de Dados
 
-**Trabalho acadêmico | Universidade Tuiuti do Paraná | 2025/01**
+**Universidade Tuiuti do Paraná | 2025**
 
 ## Sobre o trabalho
 
