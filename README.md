@@ -62,8 +62,8 @@ documentacao/
 | Instituição | Universidade Tuiuti do Paraná (UTP) |
 | Curso | Análise e Desenvolvimento de Sistemas |
 | Disciplina | Programação em Banco de Dados |
-| Professor | Sérgio |
-| Período | 2025/01 |
+| Professor | Sérgio Luiz Marques Filho|
+| Período | Primeiro Semestre de 2025 |
 | Tipo | Trabalho acadêmico em equipe |
 
 ---
